@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> My first web page in VS Code</title>
+    </head>
+    <h1> My Web page</h1>
+    <p>Name: Jose Martinez de la cruz </P>
+    <p>Course Number: IS117-102</p>
+    <p>Intro to web development</p>
+</html>
